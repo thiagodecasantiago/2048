@@ -320,32 +320,32 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #f0f url('https://scontent-b-dfw.xx.fbcdn.net/hphotos-frc3/t1.0-9/418077_3544047098450_175671262_n.jpg');
+    background: #fff url('https://scontent-b-dfw.xx.fbcdn.net/hphotos-frc3/t1.0-9/418077_3544047098450_175671262_n.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #f0f url('https://scontent-a-dfw.xx.fbcdn.net/hphotos-prn1/t1.0-9/6288_1215419148900_6351610_n.jpg');
+    background: #fff url('https://scontent-a-dfw.xx.fbcdn.net/hphotos-prn1/t1.0-9/6288_1215419148900_6351610_n.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background: #f0f url('https://scontent-a-dfw.xx.fbcdn.net/hphotos-ash3/t31.0-8/p180x540/1274143_728226227194032_142633568_o.jpg');
+    background: #fff url('https://scontent-a-dfw.xx.fbcdn.net/hphotos-ash3/t31.0-8/p180x540/1274143_728226227194032_142633568_o.jpg');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background: #f0f url('https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc3/t31.0-8/p180x540/1266744_728227970527191_169329455_o.jpg');
+    background: #fff url('https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc3/t31.0-8/p180x540/1266744_728227970527191_169329455_o.jpg');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background: #f0f url('https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/t31.0-8/p180x540/1266466_728226310527357_460936864_o.jpg');
+    background: #fff url('https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/1467336_189235157933918_928937139_n.jpg');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: #f0f url('https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash2/t1.0-9/227964_1551243399603_309713_n.jpg');
+    background: #fff url('https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash2/t1.0-9/227964_1551243399603_309713_n.jpg');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
-    background: #f0f url('https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash2/t1.0-9/603560_553345684687996_749628770_n.jpg');
+    background: #fff url('https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash2/t1.0-9/603560_553345684687996_749628770_n.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -354,7 +354,7 @@ hr {
         font-size: 25px; } } 
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
-    background: #f0f url('https://scontent-a-dfw.xx.fbcdn.net/hphotos-ash3/t31.0-8/s720x720/964114_555170394505525_714030904_o.jpg');
+    background: #fff url('https://scontent-a-dfw.xx.fbcdn.net/hphotos-ash3/t31.0-8/s720x720/964114_555170394505525_714030904_o.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -363,7 +363,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
-    background: #f0f url('https://scontent-a-dfw.xx.fbcdn.net/hphotos-prn1/t1.0-9/544822_4035529585205_74829987_n.jpg');
+    background: #fff url('https://scontent-a-dfw.xx.fbcdn.net/hphotos-prn1/t1.0-9/544822_4035529585205_74829987_n.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -372,7 +372,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
     color: #f9f6f2;
-    background: #f0f url('https://scontent-a-dfw.xx.fbcdn.net/hphotos-ash3/t1.0-9/1011623_4639735369972_1267578190_n.jpg');
+    background: #fff url('https://scontent-a-dfw.xx.fbcdn.net/hphotos-ash3/t1.0-9/1011623_4639735369972_1267578190_n.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -381,7 +381,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
-    background: #f0f url('https://scontent-b-dfw.xx.fbcdn.net/hphotos-frc1/t31.0-8/s720x720/906332_4035517024891_270909323_o.jpg');
+    background: #fff url('https://scontent-b-dfw.xx.fbcdn.net/hphotos-frc1/t31.0-8/s720x720/906332_4035517024891_270909323_o.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
