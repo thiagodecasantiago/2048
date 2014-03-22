@@ -315,15 +315,17 @@ hr {
   .tile .tile-inner {
     border-radius: 3px;
     background: #eee4da;
-    text-align: center;
+    text-align: right;
     font-weight: bold;
     z-index: 10;
-    font-size: 55px; }
+    font-size: 25px; }
   .tile.tile-2 .tile-inner {
+    color: #f9f6f2;
     background: #fff url('https://scontent-b-dfw.xx.fbcdn.net/hphotos-frc3/t1.0-9/418077_3544047098450_175671262_n.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
+    color: #f9f6f2;
     background: #fff url('https://scontent-a-dfw.xx.fbcdn.net/hphotos-prn1/t1.0-9/6288_1215419148900_6351610_n.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
